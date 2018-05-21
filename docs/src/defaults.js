@@ -10,7 +10,8 @@ const defaults = {
     'togglerClassEnd': prefix + '-toggler-end',
     'contentClassDefault': prefix + '-content',
     'contentClassStart': prefix + '-content-start',
-    'contentClassEnd': prefix + '-content-end'
+    'contentClassEnd': prefix + '-content-end',
+    'contentClassFinish': prefix + '-content-finish'
 };
 
 // Global toggle methods

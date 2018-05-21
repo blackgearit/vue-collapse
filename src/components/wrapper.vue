@@ -101,4 +101,8 @@
         transition: max-height 0.3s ease-in;
         max-height: 500px;
     }
+
+    .v-collapse-content-end.v-collapse-content-finish{
+        max-height: none;
+    }
 </style>
